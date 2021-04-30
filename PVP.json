@@ -1,4 +1,8 @@
 [
+{
+  "name": "wrobel",
+"allyCode" : "343692751",
+},
   {
   "name": "Darthelia",
 "allyCode" : "443313345",
@@ -129,6 +133,7 @@
 },
     {
 "allyCode": "731796847",
+"tagIdOnDrop": "369346445670612992",
 },
   {
 "allyCode": "546762119",
